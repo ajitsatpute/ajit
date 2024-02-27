@@ -1,0 +1,94 @@
+html {
+    overflow-x: hidden;
+
+
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-vector/abstract-classic-blue-screensaver_23-2148421853.jpg?w=1380&t=st=1707763923~exp=1707764523~hmac=73332f1c3b161f5701aa0e00dffc71e167ca575fb68ac5b1fc4dfd34d99e0827");
+
+}
+
+.nav .startnav li img {
+    width: 40px;
+    padding: 0px;
+
+
+}
+
+.midnav {
+    display: flex;
+    list-style-type: none;
+}
+
+.nav .midnav li a {
+
+    text-decoration: none;
+    padding: 20px;
+
+}
+
+.nav .startnav {
+    list-style-type: none;
+    padding: 2px;
+}
+
+.nav .startnav li img {
+    width: 90px;
+}
+
+.nav .endnav {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: aliceblue;
+    padding: 10px 20px 10px 20px;
+}
+/*=========end nav bar ===*/
+
+
+
+/*=========start hero section===*/
+.hero{
+    border: 2px solid brown;
+background-image: url("https://img.freepik.com/free-vector/abstract-classic-blue-screensaver_23-2148421853.jpg?w=1380&t=st=1707763923~exp=1707764523~hmac=73332f1c3b161f5701aa0e00dffc71e167ca575fb68ac5b1fc4dfd34d99e0827");
+   display: flex;
+   padding-top: 300px;
+   justify-content: space-evenly;
+
+
+    
+
+}
+.hero .midhero{
+   
+    padding-left: 80px;
+
+}
+.hero .end img{
+    width: 500px;
+    height: 700px;
+
+    
+    
+
+} 
+.hero .hero01{
+    padding: 60px;
+}
+.hero .midhero02{
+    padding:10px;
+
+
+}
+
+
+

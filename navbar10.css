@@ -1,0 +1,22 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+ul li a{
+    text-decoration:none;
+}
+
+ul li{
+    list-style-type:none;
+    border: 2px salmon black;
+    margin: 20px;    /* border ke bahar space create krta hai */
+    padding: 20px; /*border or content  ke bich space create krts hai */
+    border-radius: 50%; 
+}
+ul{
+    display: flex;  /* ak line me navbar lane ke liye*/
+    justify-content: center;
+}

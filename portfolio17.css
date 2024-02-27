@@ -1,0 +1,157 @@
+html{
+    overflow-x: hidden ;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+
+}
+.nav .midnav{
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+}
+.nav .midnav ul a{
+    text-decoration: none;
+    padding: 20px;
+}
+.nav .endnav{
+    display: flex;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    
+  
+}
+.nav .endnav {
+    border: 2px solid black;
+    padding: 10px 15px 10px 15px;
+    border-radius: 0px;
+    color: black;
+    
+}
+.nav .endnav div a{
+    padding-right:  15px;
+    text-decoration: none;
+    color: black;
+
+}
+.nav .startnav i{
+
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+/*======end navbar */
+
+
+/* start hero section */
+.hero{
+    
+    display: flex;
+    justify-content: space-evenly;
+    padding: 100px;
+    
+    
+
+}
+.hero .start{
+    padding-right: 200px;
+    
+}
+
+.hero .start ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding: 20px;
+    padding-right:  100px;
+    
+
+    
+}
+ .hero .start ul i{
+    border: 2px solid;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    color: white;
+    background-color:rgb(86, 170, 29);
+    padding-right: 20px;
+    color: black;
+
+    
+
+} 
+.hero .start ul li i a{
+    text-decoration: none;
+    color: black;
+
+}
+.hero .start ul li a{
+    text-decoration: none;
+}
+
+
+    
+#owesome{
+    position: absolute;
+    top: 450px;
+    left: 250px;
+    z-index: 2;
+
+}
+#owesome i{
+    
+    margin: 30px;
+    font-size: 30px;
+    border-radius: 50px;
+    padding: 5px;
+}
+.owesome{
+    position: absolute;
+    top: 200px;
+    left: 1100px;
+    z-index: 2;
+    
+
+}
+
+/* ======end hero section */
+
+
+/*==== start new ======= */
+.a{
+    border: 2px solid salmon;
+    background-color: hsl(66, 80%, 48%);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.a .center2 div{
+    border-top: 3px solid rgb(14, 9, 9);
+    padding: 50px;
+}
+.a .center2 div i{
+    padding: 10px;
+}
+
+
+
+
+
+   
+    
+
+ 
+
+
+   
+ 
+
